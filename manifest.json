@@ -1,0 +1,327 @@
+{
+  "author": "Karel Čapek",
+  "identifier": "capek-rur-ee99a82",
+  "languagecode": "cs",
+  "modified": "2022-01-17T18:37:18.832Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "R.U.R.",
+  "revision": "ee99a82",
+  "generatedAt": {
+    "date": "Mon Jan 17 2022 18:44:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1642445087948
+  },
+  "documents": [
+    {
+      "title": "R.U.R.",
+      "file": "rur_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "rur_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "R.U.R.",
+      "file": "rur_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "rur_001.html",
+      "next": "rur_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "R.U.R.",
+      "file": "rur_003.html",
+      "words": 3,
+      "chars": 17,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "rur_002.html",
+      "next": "rur_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "R.U.R.",
+      "file": "rur_004.html",
+      "words": 79,
+      "chars": 533,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "rur_003.html",
+      "next": "rur_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Předmluva • R.U.R.",
+      "file": "rur_005.html",
+      "words": 141,
+      "chars": 931,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 4,
+      "prev": "rur_004.html",
+      "next": "rur_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "R.U.R.",
+      "file": "rur_006.html",
+      "words": 12,
+      "chars": 82,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 5,
+      "prev": "rur_005.html",
+      "next": "rur_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "OSOBY • R.U.R.",
+      "file": "rur_007.html",
+      "words": 168,
+      "chars": 1127,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 6,
+      "prev": "rur_006.html",
+      "next": "rur_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OSOBY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PŘEDEHRA • R.U.R.",
+      "file": "rur_008.html",
+      "words": 5162,
+      "chars": 30931,
+      "ideas": 418,
+      "role": "chapter",
+      "order": 7,
+      "prev": "rur_007.html",
+      "next": "rur_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PŘEDEHRA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DĚJSTVÍ PRVNÍ • R.U.R.",
+      "file": "rur_009.html",
+      "words": 5737,
+      "chars": 33492,
+      "ideas": 529,
+      "role": "chapter",
+      "order": 8,
+      "prev": "rur_008.html",
+      "next": "rur_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DĚJSTVÍ PRVNÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DĚJSTVÍ DRUHÉ • R.U.R.",
+      "file": "rur_010.html",
+      "words": 4504,
+      "chars": 26406,
+      "ideas": 429,
+      "role": "chapter",
+      "order": 9,
+      "prev": "rur_009.html",
+      "next": "rur_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DĚJSTVÍ DRUHÉ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DĚJSTVÍ TŘETÍ • R.U.R.",
+      "file": "rur_011.html",
+      "words": 3307,
+      "chars": 19364,
+      "ideas": 253,
+      "role": "chapter",
+      "order": 10,
+      "prev": "rur_010.html",
+      "next": "rur_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DĚJSTVÍ TŘETÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční\npoznámka • R.U.R.",
+      "file": "rur_012.html",
+      "words": 77,
+      "chars": 605,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 11,
+      "prev": "rur_011.html",
+      "next": "rur_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční\npoznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Život a doba spisovatele\nKarla Čapka v datech • R.U.R.",
+      "file": "rur_013.html",
+      "words": 293,
+      "chars": 2025,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 12,
+      "prev": "rur_012.html",
+      "next": "rur_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Život a doba spisovatele\nKarla Čapka v datech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První\nvydání knih Karla Čapka • R.U.R.",
+      "file": "rur_014.html",
+      "words": 233,
+      "chars": 1154,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 13,
+      "prev": "rur_013.html",
+      "next": "rur_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První\nvydání knih Karla Čapka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "R.U.R.",
+      "file": "rur_015.html",
+      "words": 47,
+      "chars": 309,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 14,
+      "prev": "rur_014.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 19767,
+      "chars": 116998,
+      "ideas": 1798
+    },
+    "chapters": {
+      "words": 19763,
+      "chars": 116976,
+      "ideas": 1795
+    }
+  }
+}
