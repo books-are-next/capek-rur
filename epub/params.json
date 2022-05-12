@@ -39,16 +39,18 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_002.md",
             "xhtml": "rur_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_003.md",
@@ -57,7 +59,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_004.md",
@@ -66,7 +69,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_005.md",
@@ -75,7 +79,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_006.md",
@@ -84,7 +89,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_007.md",
@@ -93,7 +99,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_008.md",
@@ -102,7 +109,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_009.md",
@@ -111,7 +119,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_010.md",
@@ -120,7 +129,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_011.md",
@@ -129,7 +139,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_012.md",
@@ -138,7 +149,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_013.md",
@@ -147,7 +159,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_014.md",
@@ -156,7 +169,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_015.md",
@@ -165,7 +179,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
