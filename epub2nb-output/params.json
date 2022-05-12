@@ -39,16 +39,18 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_002.md",
             "xhtml": "rur_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_003.md",
@@ -57,7 +59,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_004.md",
@@ -66,7 +69,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_005.md",
@@ -75,7 +79,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_006.md",
@@ -84,7 +89,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_007.md",
@@ -93,7 +99,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_008.md",
@@ -102,7 +109,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_009.md",
@@ -111,7 +119,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_010.md",
@@ -120,7 +129,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_011.md",
@@ -129,7 +139,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_012.md",
@@ -138,7 +149,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_013.md",
@@ -147,7 +159,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_014.md",
@@ -156,7 +169,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "rur_015.md",
@@ -165,7 +179,8 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -177,7 +192,7 @@
       "identifier": "972fe21a-d138-433b-a3a1-f1437d07e97a",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-17T18:44:01.048Z"
+      "modified": "2017-11-14T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -247,19 +262,19 @@
         "xhtml": "rur_011.html"
       },
       {
-        "titleSuggest": "Ediční\npoznámka",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "rur_012.md",
         "xhtml": "rur_012.html"
       },
       {
-        "titleSuggest": "Život a doba spisovatele\nKarla Čapka v datech",
+        "titleSuggest": "Život a doba spisovatele Karla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "rur_013.md",
         "xhtml": "rur_013.html"
       },
       {
-        "titleSuggest": "První\nvydání knih Karla Čapka",
+        "titleSuggest": "První vydání knih Karla Čapka",
         "subtitleSuggest": "",
         "filename": "rur_014.md",
         "xhtml": "rur_014.html"
@@ -369,6 +384,6 @@
       "user": "books-are-next",
       "repo": "capek-rur"
     },
-    "generatedAt": 1642445041624
+    "generatedAt": 1652351394990
   }
 }
