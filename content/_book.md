@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: R.U.R.
@@ -11,7 +12,7 @@ meta:
   languageCode: cs
 readingOrder:
   - rur_001.html
-  - rur_002.html
+  - promo.html
   - rur_003.html
   - rur_004.html
   - rur_005.html
