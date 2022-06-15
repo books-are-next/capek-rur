@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-rur-953a87a",
-  "revision": "953a87a",
+  "identifier": "capek-rur-c302f54",
+  "revision": "c302f54",
   "readingOrder": [
     "rur_001.html",
     "promo.html",
@@ -27,8 +27,8 @@
     "rur_015.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:52:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157164505
+    "date": "Wed Jun 15 2022 05:46:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272010287
   },
   "documents": [
     {
