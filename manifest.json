@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-rur-b261cce",
-  "revision": "b261cce",
+  "identifier": "capek-rur-a52da02",
+  "revision": "a52da02",
   "readingOrder": [
     "rur_001.html",
     "promo.html",
@@ -27,8 +27,8 @@
     "rur_015.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:55:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978143861
+    "date": "Thu Jul 07 2022 09:56:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657187784453
   },
   "documents": [
     {
@@ -277,7 +277,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
