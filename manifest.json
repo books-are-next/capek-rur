@@ -5,17 +5,14 @@
   "title": "R.U.R.",
   "author": "Karel Čapek",
   "publisher": "Městská knihovna v Praze",
+  "edition": "Drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-rur-03d1e5f",
-  "revision": "03d1e5f",
+  "identifier": "capek-rur-ddb735f",
+  "revision": "ddb735f",
   "readingOrder": [
-    "rur_001.html",
     "promo.html",
-    "rur_003.html",
-    "rur_004.html",
     "rur_005.html",
-    "rur_006.html",
     "rur_007.html",
     "rur_008.html",
     "rur_009.html",
@@ -24,33 +21,13 @@
     "rur_012.html",
     "rur_013.html",
     "rur_014.html",
-    "rur_015.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:43:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414602961
+    "date": "Mon Aug 22 2022 08:10:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661155844268
   },
   "documents": [
-    {
-      "title": "R.U.R.",
-      "file": "rur_001.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "promo.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Městská knihovna v Praze",
       "file": "promo.html",
@@ -58,50 +35,10 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "rur_001.html",
-      "next": "rur_003.html",
-      "toc": []
-    },
-    {
-      "title": "R.U.R.",
-      "file": "rur_003.html",
-      "words": 3,
-      "chars": 17,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "promo.html",
-      "next": "rur_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "R.U.R.",
-      "file": "rur_004.html",
-      "words": 79,
-      "chars": 533,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "rur_003.html",
+      "order": 0,
+      "prev": null,
       "next": "rur_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Předmluva",
@@ -110,34 +47,14 @@
       "chars": 931,
       "ideas": 6,
       "role": "chapter",
-      "order": 4,
-      "prev": "rur_004.html",
-      "next": "rur_006.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Předmluva",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "R.U.R.",
-      "file": "rur_006.html",
-      "words": 12,
-      "chars": 82,
-      "ideas": 4,
-      "role": "chapter",
-      "order": 5,
-      "prev": "rur_005.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "rur_007.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Předmluva",
           "id": null,
           "children": []
         }
@@ -150,8 +67,8 @@
       "chars": 1127,
       "ideas": 29,
       "role": "chapter",
-      "order": 6,
-      "prev": "rur_006.html",
+      "order": 2,
+      "prev": "rur_005.html",
       "next": "rur_008.html",
       "toc": [
         {
@@ -170,7 +87,7 @@
       "chars": 30931,
       "ideas": 418,
       "role": "chapter",
-      "order": 7,
+      "order": 3,
       "prev": "rur_007.html",
       "next": "rur_009.html",
       "toc": [
@@ -190,7 +107,7 @@
       "chars": 33492,
       "ideas": 529,
       "role": "chapter",
-      "order": 8,
+      "order": 4,
       "prev": "rur_008.html",
       "next": "rur_010.html",
       "toc": [
@@ -210,7 +127,7 @@
       "chars": 26406,
       "ideas": 429,
       "role": "chapter",
-      "order": 9,
+      "order": 5,
       "prev": "rur_009.html",
       "next": "rur_011.html",
       "toc": [
@@ -230,7 +147,7 @@
       "chars": 19364,
       "ideas": 253,
       "role": "chapter",
-      "order": 10,
+      "order": 6,
       "prev": "rur_010.html",
       "next": "rur_012.html",
       "toc": [
@@ -250,7 +167,7 @@
       "chars": 606,
       "ideas": 4,
       "role": "chapter",
-      "order": 11,
+      "order": 7,
       "prev": "rur_011.html",
       "next": "rur_013.html",
       "toc": [
@@ -270,7 +187,7 @@
       "chars": 2026,
       "ideas": 31,
       "role": "chapter",
-      "order": 12,
+      "order": 8,
       "prev": "rur_012.html",
       "next": "rur_014.html",
       "toc": [
@@ -290,9 +207,9 @@
       "chars": 1155,
       "ideas": 67,
       "role": "chapter",
-      "order": 13,
+      "order": 9,
       "prev": "rur_013.html",
-      "next": "rur_015.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -304,20 +221,20 @@
       ]
     },
     {
-      "title": "R.U.R.",
-      "file": "rur_015.html",
-      "words": 47,
-      "chars": 309,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 14,
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 126,
+      "chars": 842,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
       "prev": "rur_014.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -326,14 +243,14 @@
   ],
   "totals": {
     "all": {
-      "words": 19768,
-      "chars": 117001,
-      "ideas": 1796
+      "words": 19753,
+      "chars": 116905,
+      "ideas": 1786
     },
     "chapters": {
-      "words": 19764,
-      "chars": 116979,
-      "ideas": 1793
+      "words": 19622,
+      "chars": 116038,
+      "ideas": 1766
     }
   }
 }

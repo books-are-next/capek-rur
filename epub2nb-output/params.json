@@ -1,12 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "R.U.R.",
       "identifier": "972fe21a-d138-433b-a3a1-f1437d07e97a",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-01-17T18:37:18.832Z",
-      "languageCode": "cs"
+      "contentType": "drama",
+      "publisherShort": "mkp",
+      "edition": "Drama"
     },
     "elements": {
       "title": "mlpuroven2kapitola",
@@ -19,11 +22,13 @@
       "hrAfter": "",
       "br": "",
       "brBefore": "",
-      "brAfter": "",
+      "brAfter": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 mlptextbez1radku3 mlptextbez1radkub mlptextbez1radkui",
       "blockquote": "",
       "figure": "",
-      "em": "",
-      "strong": "",
+      "centered": "",
+      "verse": "",
+      "em": "mlpscenickepoznamky mlpznaktucnakurziva11b mlpznakkurziva11b mlptextbez1radkui",
+      "strong": "mlpznaktucne11b mlpznaktucnakurziva11b mlptirazautoranazev mlpdopispodpisi mlptextbez1radkub",
       "remove": "",
       "ignore": ""
     },
@@ -31,12 +36,13 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "rur_001.md",
             "xhtml": "rur_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -56,7 +62,7 @@
             "filename": "rur_003.md",
             "xhtml": "rur_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -66,7 +72,7 @@
             "filename": "rur_004.md",
             "xhtml": "rur_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -80,13 +86,14 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Předmluva"
           },
           {
             "filename": "rur_006.md",
             "xhtml": "rur_006.html",
             "id": 5,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -100,7 +107,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "OSOBY"
           },
           {
             "filename": "rur_008.md",
@@ -110,7 +118,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "PŘEDEHRA"
           },
           {
             "filename": "rur_009.md",
@@ -120,7 +129,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "DĚJSTVÍ PRVNÍ"
           },
           {
             "filename": "rur_010.md",
@@ -130,7 +140,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "DĚJSTVÍ DRUHÉ"
           },
           {
             "filename": "rur_011.md",
@@ -140,7 +151,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "DĚJSTVÍ TŘETÍ"
           },
           {
             "filename": "rur_012.md",
@@ -150,7 +162,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ediční poznámka"
           },
           {
             "filename": "rur_013.md",
@@ -160,7 +173,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Život a doba spisovatele Karla Čapka v datech"
           },
           {
             "filename": "rur_014.md",
@@ -170,13 +184,14 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "První vydání knih Karla Čapka"
           },
           {
             "filename": "rur_015.md",
             "xhtml": "rur_015.html",
             "id": 14,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -384,6 +399,6 @@
       "user": "books-are-next",
       "repo": "capek-rur"
     },
-    "generatedAt": 1658413330130
+    "generatedAt": 1661155752843
   }
 }
