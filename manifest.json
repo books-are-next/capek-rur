@@ -8,8 +8,8 @@
   "edition": "Drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-rur-a674e48",
-  "revision": "a674e48",
+  "identifier": "capek-rur-ebad074",
+  "revision": "ebad074",
   "readingOrder": [
     "promo.html",
     "rur_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:47:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923672242
+    "date": "Fri Oct 07 2022 13:51:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150677831
   },
   "documents": [
     {
