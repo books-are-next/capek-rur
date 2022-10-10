@@ -8,8 +8,8 @@
   "edition": "Drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-rur-ebad074",
-  "revision": "ebad074",
+  "identifier": "capek-rur-2eea526",
+  "revision": "2eea526",
   "readingOrder": [
     "promo.html",
     "rur_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:51:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150677831
+    "date": "Mon Oct 10 2022 15:43:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416595767
   },
   "documents": [
     {
@@ -224,7 +224,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 124,
-      "chars": 842,
+      "chars": 843,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -244,7 +244,7 @@
   "totals": {
     "all": {
       "words": 19751,
-      "chars": 116905,
+      "chars": 116906,
       "ideas": 1784
     },
     "chapters": {
